@@ -54,19 +54,19 @@ disk and avoid applying the same operations over and over during training.
 
 Original image:
 
-![alt text](https://github.com/luciorech/CarND-BehavioralCloning/blob/master/doc/original.jpg "Original"
+![alt text](./doc/original.jpg "Original")
 
 Cropped image:
 
-![alt text](https://github.com/luciorech/CarND-BehavioralCloning/blob/master/doc/cropped.jpg "Cropped"
+![alt text](./doc/cropped.jpg "Cropped")
 
 Intensity rescaled:
 
-![alt text](https://github.com/luciorech/CarND-BehavioralCloning/blob/master/doc/intensity_rescaling.jpg "Intensity Rescale"
+![alt text](./doc/intensity_rescaling.jpg "Intensity Rescale")
 
 YUV as BGR (Y is the blue channel):
 
-![alt text](https://github.com/luciorech/CarND-BehavioralCloning/blob/master/doc/yuv_as_rgb.jpg "YUV as BGR"
+![alt text](./doc/yuv_as_rgb.jpg "YUV as BGR")
 
 ## The model
 
